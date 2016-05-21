@@ -1,0 +1,309 @@
+.news{
+  float: left;
+  margin-top: 10px;
+  height: 100%;
+}
+.news1{
+  float: left;
+  height: 200px;
+  width: 100%;
+}
+.news1 img{
+  float: left;
+  margin-right: 10px;
+}
+.news2{
+  float: left;
+  height: 200px;
+  width: 100%;
+  margin-top: 20px;
+}
+.news2 img{
+  float: left;
+  margin-right: 10px;
+}
+.slide{
+  height:480px;
+  width:640px;
+  margin-left: 10px;
+  float: left;
+  margin-top: 5px;
+}
+.dropdown-toggle{
+  font-family: Bauhaus 93;
+}
+.artists{
+  width: 100%;
+  height: 100%;
+}
+.guns{
+  float: left;
+  margin-top: 100px;
+  margin-left: 25px;
+}
+.guns img{
+  width: 200px;
+  height: 200px;
+}
+.guns img:hover{
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
+.aerosmith{
+  float: left;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.aerosmith img{
+  width: 200px;
+  height: 200px;
+}
+.aerosmith img:hover{
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
+.allman{
+  float: left;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.allman img{
+  width: 200px;
+  height: 200px;
+}
+.allman img:hover{
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
+.deflep{
+  float: left;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.deflep img{
+  width: 200px;
+  height: 200px;
+}
+.deflep img:hover{
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
+.sabbath{
+  float: left;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.sabbath img{
+  width: 200px;
+  height: 200px;
+}
+.sabbath img:hover{
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
+.eagles{
+  float: left;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.eagles img{
+  width: 200px;
+  height: 200px;
+}
+.eagles img:hover{
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
+.beatles{
+  float: left;
+  margin-top: 100px;
+  margin-left: 25px;
+}
+.beatles img{
+  width: 200px;
+  height: 200px;
+}
+.beatles img:hover{
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
+.doors{
+  float: left;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.doors img{
+  width: 200px;
+  height: 200px;
+}
+.doors img:hover{
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
+.ledzep{
+  float: left;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.ledzep img{
+  width: 200px;
+  height: 200px;
+}
+.ledzep img:hover{
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
+.pink{
+  float: left;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.pink img{
+  width: 200px;
+  height: 200px;
+}
+.pink img:hover{
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
+.vanhalen{
+  float: left;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.vanhalen img{
+  width: 200px;
+  height: 200px;
+}
+.vanhalen img:hover{
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
+.queen{
+  float: left;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.queen img{
+  width: 200px;
+  height: 200px;
+}
+.queen img:hover{
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
+.u2{
+  float: left;
+  margin-top: 100px;
+  margin-left: 25px;
+}
+.u2 img{
+  width: 200px;
+  height: 200px;
+}
+.u2 img:hover{
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
+.music{
+  float: left;
+  width: 100%
+}
+.m img:hover{
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
+.n img:hover{
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
+.logo img{
+  margin-top: -43px;
+  margin-left: -15px;
+}
+.empty1{
+  width: 300px;
+  height:500px;
+}
+.empty2{
+  width: 300px;
+  height: 500px;
+}
+.albums{
+  margin-top: 50px;
+}
+  @-webkit-keyframes swing {
+  15% {
+    -webkit-transform: translateX(9px);
+    transform: translateX(9px);
+  }
+  30% {
+    -webkit-transform: translateX(-9px);
+    transform: translateX(-9px);
+  }
+  40% {
+    -webkit-transform: translateX(6px);
+    transform: translateX(6px);
+  }
+  50% {
+    -webkit-transform: translateX(-6px);
+    transform: translateX(-6px);
+  }
+  65% {
+    -webkit-transform: translateX(3px);
+    transform: translateX(3px);
+  }
+  100% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+
+@keyframes swing {
+  15% {
+    -webkit-transform: translateX(9px);
+    transform: translateX(9px);
+  }
+  30% {
+    -webkit-transform: translateX(-9px);
+    transform: translateX(-9px);
+  }
+  40% {
+    -webkit-transform: translateX(6px);
+    transform: translateX(6px);
+  }
+  50% {
+    -webkit-transform: translateX(-6px);
+    transform: translateX(-6px);
+  }
+  65% {
+    -webkit-transform: translateX(3px);
+    transform: translateX(3px);
+  }
+  100% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+
+.news img:hover {
+  -webkit-animation: swing 0.6s ease;
+  animation: swing 0.6s ease;
+   -webkit-animation-iteration-count: 1;
+   animation-iteration-count: 1;
+}
